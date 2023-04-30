@@ -1,7 +1,7 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 👋, I'm Chí Hiếu</h1>
+<img align="left" width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
+<h1 align="center">Hi 👋, I'm Chí Hiếu <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img></h1>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=441AF7&width=435&lines=A+passionate+developer+from+Vietnam;software+development;Freelancer+!!!" alt="Typing SVG" /></a>
 </p>
 
 
@@ -9,7 +9,7 @@
 
 <br />
 
-## 📫 How to reach me:
+<h3 align="center" > <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Connect with me 🤝 </h3>
 
 
 <p align="center">
@@ -36,6 +36,7 @@
   </a> -->
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 ## Skills:
 <p align="center">
   <img src="https://img.icons8.com/officel/48/null/react.png"/>
@@ -61,6 +62,14 @@
   <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/> -->
 </p>
+
+
+
+### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
+
+![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
+
+
 
 ## Activities:
 
